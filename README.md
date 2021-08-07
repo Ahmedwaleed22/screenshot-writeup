@@ -49,4 +49,4 @@
 
 <p>After sometime of searching I realised the "$jpeg" variable it has a value of "Server!Host@Flag", and as we can see the challenge description says that the flag is the front server hostname</p>
 
-<p>Flag: Server!Host@Flag</p>
+## Flag: Server!Host@Flag
